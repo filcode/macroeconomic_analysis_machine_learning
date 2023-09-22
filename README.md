@@ -9,3 +9,6 @@ This analysis develops as follows:
 - macro_lag_analysis: analyses correlations and cross corr. between variables in different time lags
 
 The predictive part is currently unavailable for confidentiality reasons.
+
+TO CHECK OUT THE EXPLANATION ABOUT HOW THE PROJECT PIPEL HAS BEEN BUILT, GO THOUGH THE LINK TO OPEN THE POWER POINT
+**[POWER POINT LINK](#https://docs.google.com/presentation/d/1aY1NKrSXnpewKCjdBGnT8M-7VVYQMR0J/edit#slide=id.g1e70faaf441_0_0)**
