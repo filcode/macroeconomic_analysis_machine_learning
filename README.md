@@ -10,5 +10,5 @@ This analysis develops as follows:
 
 The predictive part is currently unavailable for confidentiality reasons.
 
-TO CHECK OUT THE EXPLANATION ABOUT HOW THE PROJECT PIPEL HAS BEEN BUILT, GO THROUGH THE LINK TO OPEN THE POWER POINT
+TO CHECK OUT THE EXPLANATION ABOUT HOW THE PROJECT PIPELINE HAS BEEN BUILT, GO THROUGH THE LINK TO OPEN THE POWER POINT
 **https://docs.google.com/presentation/d/1aY1NKrSXnpewKCjdBGnT8M-7VVYQMR0J/edit#slide=id.g1e70faaf441_0_0**
